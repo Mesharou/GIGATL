@@ -12,7 +12,7 @@ The simulation domain covers the Atlantic Ocean. Simulations are available in se
  - **GIGATL6** = 6 km in the horizontal with 50 "topography-following" vertical levels
  - **GIGATL24** = 24 km in the horizontal with 50 "topography-following" vertical levels
 
--
+--
 
 ### Configuration
 
@@ -31,7 +31,7 @@ The k-epsilon turbulence closure scheme is used to parameterize vertical mixing,
 The effect of bottom friction is parameterized through a logarithmic law of the wall with a roughness length $Z_0 = 0.01$ m. 
 
 
--
+--
 
 
 
