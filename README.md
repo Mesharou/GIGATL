@@ -58,6 +58,9 @@ The effect of bottom friction is parameterized through a logarithmic law of the 
 
 ## Publications using GIGATL data
 
+- Qu L., L.N. Thomas & J. Gula : Bottom mixing enhanced by storm-generated near-inertial waves in Straits of Florida, in rev. for Geophys. Res. Lett.
+- Barkan, R., K. Srinivasan, L. Yang, J.C. McWilliams, J. Gula & C. Vic : Oceanic mesoscale eddy depletion catalyzed by internal waves, submitted.
+- Ruan, X., J. Wenegrat & J. Gula : Slippery bottom boundary layers and the loss of energy from the general circulation by the bottom drag, submitted.
 
 ## License
 
