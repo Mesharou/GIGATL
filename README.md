@@ -103,6 +103,14 @@ Specific python tools are developed for the (massively parallel) analysis of GIG
 - Barkan, R., K. Srinivasan, L. Yang, J.C. McWilliams, J. Gula & C. Vic : Oceanic mesoscale eddy depletion catalyzed by internal waves, submitted.
 - Ruan, X., J. Wenegrat & J. Gula : Slippery bottom boundary layers and the loss of energy from the general circulation by the bottom drag, submitted.
 
+## DOI
+
+The latest release has been archived on zenodo:
+
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.4948523.svg)](https://doi.org/10.5281/zenodo.4948523)
+
+
+
 ## License
 
 [![License: CC BY-NC-SA 4.0](https://img.shields.io/badge/License-CC%20BY--NC--SA%204.0-lightgrey.svg)](http://creativecommons.org/licenses/by-nc-sa/4.0/)
