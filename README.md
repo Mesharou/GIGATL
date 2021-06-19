@@ -88,7 +88,11 @@ GIGATL3/6 outputs and GIGATL1 regional extractions can be analyzed using standar
 
   [tools0]: https://croco-ocean.gitlabpages.inria.fr/croco_doc/tutos/tutos.14.visu.python.html#
   
-Example notebooks for the use of xarray/dask will be provided shortly. 
+Example notebooks for the use of xarray/dask/xgcm are available for [Surface data][notebook_0] or [3D data][notebook_1].
+
+
+  [notebook_0]: ./notebooks/croco_surf_example_xgcm.ipynb
+  [notebook_1]: ./notebooks/croco_3D_example_xgcm.ipynb
 
 Specific python tools are developed for the (massively parallel) analysis of GIGATL1 outputs on HPC clusters: [paragridded][tools1]
 
