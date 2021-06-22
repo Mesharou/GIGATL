@@ -6,6 +6,21 @@
 
 GIGATL is a set of Atlantic Ocean numerical simulations performed with the Coastal and Regional Ocean COmmunity model ([CROCO](https://www.croco-ocean.org/)), which is built upon the Regional Oceanic Modeling System (ROMS).
 
+
+## Contributors
+
+Main contributors for the setup of the configuration, production of the simulations, management of the output data, and design of the post-processing tools:
+
+ - Jonathan Gula (LOPS/UBO)
+ - Sébastien Theetthen (LOPS/Ifremer)
+ - Gildas Cambon (LOPS/IRD)
+ - Guillaume Roullet (LOPS/UBO)
+
+With help from Patrick Marchesiello (LEGOS/IRD) for implementing new options in CROCO, and many others to come for the exploitation and validation of the model data.
+
+We acknowledge PRACE and GENCI for awarding us access to HPC resources Joliot-Curie Rome and SKL from GENCI-TGCC (Grants 2020-A0090112051, 2019gch0401 and PRACE project 2018194735) and HPC facilities DATARMOR of “Pôle de Calcul Intensif pour la Mer” at Ifremer Brest France. 
+
+
 ## List of the main experiments
 
 The simulation domain covers the Atlantic Ocean. Simulations are available in several resolutions:
