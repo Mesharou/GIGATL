@@ -2,7 +2,7 @@
 
 ## What is it?
 
-![image info](./Figures/gigatl1_1h_tides_surf_vrt38160_dpi100.png)
+![image info](./Figures/gigatl1_1h_tides_surf_uv38160_dpi100.png)
 
 GIGATL is a set of Atlantic Ocean numerical simulations performed with the Coastal and Regional Ocean COmmunity model ([CROCO](https://www.croco-ocean.org/)), which is built upon the Regional Oceanic Modeling System (ROMS).
 
@@ -75,18 +75,18 @@ The effect of bottom friction is parameterized through a logarithmic law of the 
 
 ### Periods:
 
-GIGATL1 (no tides) = From 2007-07-12  to 2009-02-19       = 1.6 years
+GIGATL1 (no tides) = From 2007-07-12  to 2009-09-06       = 2.2 years
 
-GIGATL1 ( &nbsp; &nbsp; tides) = From 2007-07-02  to 2009-09-01       = 2.2 years
+GIGATL1 ( &nbsp; &nbsp; tides) = From 2007-07-02  to 2009-09-05       = 2.2 years
 
-GIGATL3 (no tides) = From 2004-01-01 to 2013-03-22         = 9.5 years
+GIGATL3 (no tides) = From 2004-01-01 to 2013-08-09         = 9.5 years
 
-GIGATL3 ( &nbsp; &nbsp; tides) = From 2007-03-25 to 2011-11-28         = 4.5 years
+GIGATL3 ( &nbsp; &nbsp; tides) = From 2007-03-25 to 2012-08-19         = 5.5 years
 
 GIGATL6 (many versions) = From 2004-01-01 to 2014-01-01 = 10 years
 
 
-### Variables:
+### Variables: 
 
 
 
@@ -118,9 +118,10 @@ Specific python tools are developed for the (massively parallel) analysis of GIG
 
 ## Publications using GIGATL data
 
-- Qu L., L.N. Thomas & J. Gula : Bottom mixing enhanced by storm-generated near-inertial waves in Straits of Florida, in rev. for Geophys. Res. Lett.
-- Barkan, R., K. Srinivasan, L. Yang, J.C. McWilliams, J. Gula & C. Vic : Oceanic mesoscale eddy depletion catalyzed by internal waves, submitted.
-- Ruan, X., J. Wenegrat & J. Gula : Slippery bottom boundary layers and the loss of energy from the general circulation by the bottom drag, submitted.
+- Qu L., L.N. Thomas & J. Gula, **2021** : Bottom mixing enhanced by storm-generated near-inertial waves in Straits of Florida, in rev. for Geophys. Res. Lett., 48, e2021GL093773.
+- Barkan, R., K. Srinivasan, L. Yang, J.C. McWilliams, J. Gula & C. Vic, **2021** : Oceanic mesoscale eddy depletion catalyzed by internal waves, Geophys. Res. Lett., https ://doi.org/10.1029/2021GL094376
+- Ruan, X., J. Wenegrat & J. Gula, **2021** : Slippery bottom boundary layers and the loss of energy from the general circulation by the bottom drag, Geophys. Res. Lett., https://doi.org/10.1029/2021GL094434
+
 
 ## DOI
 
