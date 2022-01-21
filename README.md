@@ -118,10 +118,11 @@ Specific python tools are developed for the (massively parallel) analysis of GIG
 
 ## Publications using GIGATL data
 
-- Qu L., L.N. Thomas & J. Gula, **2021** : Bottom mixing enhanced by storm-generated near-inertial waves in Straits of Florida, in rev. for Geophys. Res. Lett., 48, e2021GL093773.
-- Barkan, R., K. Srinivasan, L. Yang, J.C. McWilliams, J. Gula & C. Vic, **2021** : Oceanic mesoscale eddy depletion catalyzed by internal waves, Geophys. Res. Lett., https ://doi.org/10.1029/2021GL094376
+- Mashayek, A., J. Gula, L. Baker, L. Cimoli, A. Naveira Garabato & J. Riley : Mountains to climb : on the role of seamounts in the ascent of deep ocean waters, submitted. https ://doi.org/10.21203/rs.3.rs- 939198/v1.
+- Vic, C., S. Hascoet, J. Gula, T. Huck, & C. Maes, **2022** : Oceanic mesoscale cyclones cluster surface Lagrangian material, Geophys. Res. Lett.
 - Ruan, X., J. Wenegrat & J. Gula, **2021** : Slippery bottom boundary layers and the loss of energy from the general circulation by the bottom drag, Geophys. Res. Lett., https://doi.org/10.1029/2021GL094434
-
+- Barkan, R., K. Srinivasan, L. Yang, J.C. McWilliams, J. Gula & C. Vic, **2021** : Oceanic mesoscale eddy depletion catalyzed by internal waves, Geophys. Res. Lett., https ://doi.org/10.1029/2021GL094376
+- Qu L., L.N. Thomas & J. Gula, **2021** : Bottom mixing enhanced by storm-generated near-inertial waves in Straits of Florida, Geophys. Res. Lett., 48, e2021GL093773.
 
 ## DOI
 
