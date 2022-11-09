@@ -113,16 +113,20 @@ Specific python tools are developed for the (massively parallel) analysis of GIG
 
   [tools1]: https://github.com/pvthinker/paragridded
 
-## Validation and diagnostics
+[//]: # (Validation and diagnostics)
 
 
 ## Publications using GIGATL data
 
-- Uchida, T., J. Le Sommer, C. Stern, R.P. Abernathey, C. Holdgraf, A. Albert, L. Brodeau, E. Chassignet, X. Xu, J. Gula, G. Roullet, Q. Wang, N. Koldunov, S. Danilov, D. Menemenlis, C. Bricaud, B. Arbic, A. Biastoch, R. Schubert, F. Qiao, B, Xiao, B. Fox-Kemper, & W.K. Dewar : Cloud-based framework for inter-comparing submesoscale permitting realistic ocean models, submitted. 
+
 
 - Mashayek, A., J. Gula, L. Baker, L. Cimoli, A. Naveira Garabato & J. Riley : Mountains to climb : on the role of seamounts in the ascent of deep ocean waters, submitted. https ://doi.org/10.21203/rs.3.rs- 939198/v1.
 
-- Vic, C., S. Hascoet, J. Gula, T. Huck, & C. Maes, **2022** : Oceanic mesoscale cyclones cluster surface Lagrangian material, Geophys. Res. Lett.
+- Tagliabue, A., A. Lough, C. Vic, V. Roussenov, J. Gula, M. Lohan, J. Resing, & R. Williams, **2022** : Mechanisms driving the dispersal of hydrothermal iron from the northern Mid Atlantic Ridge, Geophys. Res. Lett., https://doi.org/10.1002/essoar.10512044.1
+
+- Uchida, T., J. Le Sommer, C. Stern, R.P. Abernathey, C. Holdgraf, A. Albert, L. Brodeau, E. Chassignet, X. Xu, J. Gula, G. Roullet, Q. Wang, N. Koldunov, S. Danilov, D. Menemenlis, C. Bricaud, B. Arbic, A. Biastoch, R. Schubert, F. Qiao, B, Xiao, B. Fox-Kemper, & W.K. Dewar, **2022** : Cloud-based framework for inter-comparing submesoscale permitting realistic ocean models, Geosci. Model Dev., https://doi.org/10.5194/gmd-2022-27. 
+
+- Vic, C., S. Hascoet, J. Gula, T. Huck, & C. Maes, **2022** : Oceanic mesoscale cyclones cluster surface Lagrangian material, Geophys. Res. Lett.,  https://doi.org/10.1029/2021GL097488.
 
 - Ruan, X., J. Wenegrat & J. Gula, **2021** : Slippery bottom boundary layers and the loss of energy from the general circulation by the bottom drag, Geophys. Res. Lett., https://doi.org/10.1029/2021GL094434
 
