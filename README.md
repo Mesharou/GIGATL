@@ -120,7 +120,9 @@ Specific python tools are developed for the (massively parallel) analysis of GIG
 
 
 
-- Mashayek, A., J. Gula, L. Baker, L. Cimoli, A. Naveira Garabato & J. Riley : Mountains to climb : on the role of seamounts in the ascent of deep ocean waters, submitted. https ://doi.org/10.21203/rs.3.rs- 939198/v1.
+- Napolitano, D., X. Carton, & J. Gula, **2024** : Vertical interaction between NBC rings and its implications for South Atlantic Water export, J. Geophys. Res. Ocean., 129, e2023JC020741. https://doi.org/10.1029/2023JC020741
+
+- Schubert, R., O. Vergara, & J. Gula, **2023** : The open ocean kinetic energy cascade is strongest in late winter and spring, Communications Earth & Environment, 4, 450, https ://doi.org/10.1038/s43247-023- 01111-x
 
 - Tagliabue, A., A. Lough, C. Vic, V. Roussenov, J. Gula, M. Lohan, J. Resing, & R. Williams, **2022** : Mechanisms driving the dispersal of hydrothermal iron from the northern Mid Atlantic Ridge, Geophys. Res. Lett., https://doi.org/10.1002/essoar.10512044.1
 
