@@ -119,7 +119,7 @@ Specific python tools are developed for the (massively parallel) analysis of GIG
 ## Publications using GIGATL data
 
 
-- Picard, T., J. Gula, C. Vic & L. Memery, **2024** : Seasonal tracer subduction in the Subpolar North Atlantic driven by submesoscales, J. Geophys. Res. Oceans, 129, e2023JC020782, https://doi.org/10. 1029/2023JC020782.
+- Picard, T., J. Gula, C. Vic & L. Memery, **2024** : Seasonal tracer subduction in the Subpolar North Atlantic driven by submesoscales, J. Geophys. Res. Oceans, 129, e2023JC020782, https://doi.org/10.1029/2023JC020782.
 
 - Mashayek, A., J. Gula, L. Baker, A. Naveira Garabato, L. Cimoli, J. Riley & C. de Lavergne, **2024** : Mountains to climb : on the role of seamounts in upwelling deep-ocean waters through turbulent mixing, Proceedings of the National Academy of Sciences. https://doi.org/10.1073/pnas.2322163121
 
