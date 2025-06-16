@@ -118,6 +118,10 @@ Specific python tools are developed for the (massively parallel) analysis of GIG
 
 ## Publications using GIGATL data
 
+- De Marez, C., A. Ruiz-Angulo & J. Gula, **2025** :Mesoscale Dynamics on the Iceland-Faroe Ridge Fueling Deep Ocean Warming of the AMOC. Geophys. Res. Lett., in press
+
+
+- Schubert, R., J. Gula , E. Capo, P. Damien, M.J. Molemaker, C. Vic, & J.C. McWilliams, **2025** :The ocean moves downhill near the seafloor and recirculates uphill above. Nature Communications, in press
 
 - Picard, T., J. Gula, C. Vic & L. Memery, **2024** : Seasonal tracer subduction in the Subpolar North Atlantic driven by submesoscales, J. Geophys. Res. Oceans, 129, e2023JC020782, https://doi.org/10.1029/2023JC020782.
 
