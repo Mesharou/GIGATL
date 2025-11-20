@@ -118,10 +118,20 @@ Specific python tools are developed for the (massively parallel) analysis of GIG
 
 ## Publications using GIGATL data
 
-- De Marez, C., A. Ruiz-Angulo & J. Gula, **2025** :Mesoscale Dynamics on the Iceland-Faroe Ridge Fueling Deep Ocean Warming of the AMOC. Geophys. Res. Lett., in press
 
+- Santos, D.M.C., T.C. Bilo, D.C. Napolitano, R.C. Perez, P.S. Polito, J. Gula, S. Dong, E.J.D. Cam-
+pos, O.T. Sato, **2025**: AABW Contraction Drives Abyssal Ocean Warming Along SAMBA-West Line in the
+Argentine Basin, Deep Dea Res.
 
-- Schubert, R., J. Gula , E. Capo, P. Damien, M.J. Molemaker, C. Vic, & J.C. McWilliams, **2025** :The ocean moves downhill near the seafloor and recirculates uphill above. Nature Communications, in press
+- Schifano, N., C. Vic, J. Gula, M.J. Molemaker, & J.C. McWilliams, **2025**: Diapycnal mixing and tracer
+dispersion in a terrain-following coordinate model. Journal of Advances in Modeling Earth Systems, 17,
+e2024MS004768. https://doi.org/10.1029/2024MS004768.
+
+- De Marez, C., A. Ruiz-Angulo, & J. Gula, **2025**: Mesoscale induced vertical fluxes over the Iceland-Faroe Ridge, Geophys. Res. Lett, 52, e2025GL115520. https://doi.org/10.1029/2025GL115520.
+
+- Schubert, R., J. Gula, E. Capo, P. Damien, M.J. Molemaker, C. Vic, & J.C. McWilliams, **2025**:
+The ocean moves downhill near the seafloor and recirculates upward above, Nat. Commun., 16, 5873.
+https://doi.org/10.1038/s41467-025-61027-2.
 
 - Picard, T., J. Gula, C. Vic & L. Memery, **2024** : Seasonal tracer subduction in the Subpolar North Atlantic driven by submesoscales, J. Geophys. Res. Oceans, 129, e2023JC020782, https://doi.org/10.1029/2023JC020782.
 
