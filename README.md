@@ -121,10 +121,7 @@ Specific python tools are developed for the (massively parallel) analysis of GIG
 
 - Buijsman, M. C., and Coauthors, **2026**: A Multiagency Experiment on Internal Wave Energy, Mixing, and Interactions and Their Representation in Global Ocean Models and Operational Forecasts. Bull. Amer. Meteor. Soc., 107, E158–E182, https://doi.org/10.1175/BAMS-D-24-0174.1.
 
-
-- Santos, D.M.C., T.C. Bilo, D.C. Napolitano, R.C. Perez, P.S. Polito, J. Gula, S. Dong, E.J.D. Cam-
-pos, O.T. Sato, **2026**: AABW Contraction Drives Abyssal Ocean Warming Along SAMBA-West Line in the
-Argentine Basin, Deep Dea Res, 227, 104627. https://doi.org/10.1016/j.dsr.2025.104627
+- Santos, D.M.C., T.C. Bilo, D.C. Napolitano, R.C. Perez, P.S. Polito, J. Gula, S. Dong, E.J.D. Campos, O.T. Sato, **2026**: AABW Contraction Drives Abyssal Ocean Warming Along SAMBA-West Line in the Argentine Basin, Deep Dea Res, 227, 104627. https://doi.org/10.1016/j.dsr.2025.104627
 
 - Schifano, N., C. Vic, J. Gula, M.J. Molemaker, & J.C. McWilliams, **2025**: Diapycnal mixing and tracer
 dispersion in a terrain-following coordinate model. Journal of Advances in Modeling Earth Systems, 17,
