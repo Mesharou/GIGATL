@@ -119,13 +119,21 @@ Specific python tools are developed for the (massively parallel) analysis of GIG
 ## Publications using GIGATL data
 
 
+- Napolitano, D., J. Gula, S. Coadou-Chaventon, S. Speich, C. B. Rocha, J. C. McWilliams, D. Zhang & X.Carton, **2026**: Thermohaline gradients and frontal regimes in the northwestern Tropical Atlantic, EGUsphere [preprint], https://doi.org/10.5194/egusphere-2026-2092.
+
+- Huang, Y., A. Bracco, K. Polzin & J. Gula, **2026**: Diapycnal Mixing in Submesoscale Permitting Simulations of the Deep Brazil Basin, EGUsphere [preprint], https://doi.org/10.5194/egusphere-2026-2869
+
+- Liu, Q., D. Napolitano, J. Gula, M. Wang, Y. Liu, L. Gao, & X. Li, **2026**: Detection of Surface Submesoscale Fronts in the Atlantic Ocean Ocean Model., 102787, https://doi.org/10.1016/j.ocemod.2026.102787.
+
+- Escobar, M.G., M. Huret, C. Vic, T. Gorgues, J. Gula & C. Cathalot, **2026**: Spreading of a deep-ocean tracer in a suite of Eulerian and Lagrangian simulations, J. Geophys. Res. Oceans,  131, e2025JC023925, https://doi.org/10.1029/2025JC023925.
+
+- Oladejo, H.O., G. Alory, R.B. Adesina, D. Bernstein & J. Gula, **2026**: A Risk-Informed Multicriteria Framework for Ocean Current Energy Site Selection for Small Island Developing States, Scientific Reports, https://doi.org/10.1038/s41598-026-56952-1.
+
 - Buijsman, M. C., and Coauthors, **2026**: A Multiagency Experiment on Internal Wave Energy, Mixing, and Interactions and Their Representation in Global Ocean Models and Operational Forecasts. Bull. Amer. Meteor. Soc., 107, E158–E182, https://doi.org/10.1175/BAMS-D-24-0174.1.
 
 - Santos, D.M.C., T.C. Bilo, D.C. Napolitano, R.C. Perez, P.S. Polito, J. Gula, S. Dong, E.J.D. Campos, O.T. Sato, **2026**: AABW Contraction Drives Abyssal Ocean Warming Along SAMBA-West Line in the Argentine Basin, Deep Dea Res, 227, 104627. https://doi.org/10.1016/j.dsr.2025.104627
 
-- Schifano, N., C. Vic, J. Gula, M.J. Molemaker, & J.C. McWilliams, **2025**: Diapycnal mixing and tracer
-dispersion in a terrain-following coordinate model. Journal of Advances in Modeling Earth Systems, 17,
-e2024MS004768. https://doi.org/10.1029/2024MS004768.
+- Schifano, N., C. Vic, J. Gula, M.J. Molemaker, & J.C. McWilliams, **2025**: Diapycnal mixing and tracer dispersion in a terrain-following coordinate model. Journal of Advances in Modeling Earth Systems, 17, e2024MS004768. https://doi.org/10.1029/2024MS004768.
 
 - de Marez, C., A. Ruiz-Angulo, & J. Gula, **2025**: Mesoscale induced vertical fluxes over the Iceland-Faroe Ridge, Geophys. Res. Lett, 52, e2025GL115520. https://doi.org/10.1029/2025GL115520.
 
