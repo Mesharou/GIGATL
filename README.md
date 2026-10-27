@@ -119,15 +119,28 @@ Specific python tools are developed for the (massively parallel) analysis of GIG
 ## Publications using GIGATL data
 
 
-- Napolitano, D., J. Gula, S. Coadou-Chaventon, S. Speich, C. B. Rocha, J. C. McWilliams, D. Zhang & X.Carton, **2026**: Thermohaline gradients and frontal regimes in the northwestern Tropical Atlantic, EGUsphere [preprint], https://doi.org/10.5194/egusphere-2026-2092.
 
-- Huang, Y., A. Bracco, K. Polzin & J. Gula, **2026**: Diapycnal Mixing in Submesoscale Permitting Simulations of the Deep Brazil Basin, EGUsphere [preprint], https://doi.org/10.5194/egusphere-2026-2869
+- Galea, A., P. Rivière, J. Collin & X. Carton : Oceanic front reconstruction in a turbulent environment: application to the Northeastern Atlantic Ocean, submitted.
+
+- Galea, A., P. Rivière, G. Lapeyre, J. Gula, J. Collin & X. Carton : Lagrangian reconstruction of SST at submesoscale, submitted.
+
+- Capo, E., E., J.C. McWilliams, J. Gula, & K. Sheen : Three-Dimensional Submesoscale Structure of the Brazil–Malvinas Current System, submitted.
+
+- Mokuenko, V., J. Gula & X. Carton: Cyclone Anticyclone Asymmetry of Submesoscale Coherent Vortices Near the Mid-Atlantic Ridge, submitted.
+
+- Huang, Y., A. Bracco, K. Polzin & J. Gula, **2026**: Diapycnal Mixing in Submesoscale Permitting Simulations of the Deep Brazil Basin, Ocean Sci., 22, 3415–3433, https://doi.org/10.5194/os-22-3415-2026.
+
+- Tuerena, R. E., Mahaffey, C., Vic, C., Lough, A. J. M., Davis, C. E., Lohan, M., A. Tagliabue, R. Mather, J. Sharples, **2026**: Hydrothermal contributions to elevated dissolved organic carbon concentrations and cycling along the Mid-Atlantic Ridge. Geophysical Research Letters, 53, e2026GL123719. https://doi.org/10.1029/2026GL123719
+
+- Napolitano, D., J. Gula, S. Coadou-Chaventon, S. Speich, C. B. Rocha, J. C. McWilliams, D. Zhang & X.Carton, **2026**: Thermohaline gradients and frontal regimes in the northwestern Tropical Atlantic, Ocean Sci., 22, 2425–2447, https://doi.org/10.5194/os-22-2425-2026.
 
 - Liu, Q., D. Napolitano, J. Gula, M. Wang, Y. Liu, L. Gao, & X. Li, **2026**: Detection of Surface Submesoscale Fronts in the Atlantic Ocean Ocean Model., 102787, https://doi.org/10.1016/j.ocemod.2026.102787.
 
 - Escobar, M.G., M. Huret, C. Vic, T. Gorgues, J. Gula & C. Cathalot, **2026**: Spreading of a deep-ocean tracer in a suite of Eulerian and Lagrangian simulations, J. Geophys. Res. Oceans,  131, e2025JC023925, https://doi.org/10.1029/2025JC023925.
 
 - Oladejo, H.O., G. Alory, R.B. Adesina, D. Bernstein & J. Gula, **2026**: A Risk-Informed Multicriteria Framework for Ocean Current Energy Site Selection for Small Island Developing States, Scientific Reports, https://doi.org/10.1038/s41598-026-56952-1.
+
+- de Marez, C., Bendinger, A., and Dilmahamod, A. F., **2026**: High-latitude eddy statistics from SWOT compared with in situ observations, Ocean Sci., 22, 1515–1528, https://doi.org/10.5194/os-22-1515-2026.
 
 - Buijsman, M. C., and Coauthors, **2026**: A Multiagency Experiment on Internal Wave Energy, Mixing, and Interactions and Their Representation in Global Ocean Models and Operational Forecasts. Bull. Amer. Meteor. Soc., 107, E158–E182, https://doi.org/10.1175/BAMS-D-24-0174.1.
 
